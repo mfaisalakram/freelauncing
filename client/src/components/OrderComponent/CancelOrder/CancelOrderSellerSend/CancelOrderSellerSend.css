@@ -1,0 +1,26 @@
+.CancelOrderSellerSend .top{
+    text-align: center;
+}
+.CancelOrderSellerSend .info{
+    text-align: center;
+}
+.CancelOrderSellerSend .extend-table-outer{
+    border: 1px solid lightgray;
+    margin: 10px 0px;
+    padding: 20px;
+    background-color: #fafafa;
+}
+.CancelOrderSellerSend .info-table{
+    border: 1px solid lightgray;
+}
+.CancelOrderSellerSend .info-table th{
+    font-weight: bold;
+}
+.CancelOrderSellerSend .button-box{
+    text-align: center;
+    margin-top: 15px;
+   
+}
+.CancelOrderSellerSend .button-box button{
+     padding: 7px;
+}

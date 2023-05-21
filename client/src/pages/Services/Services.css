@@ -1,0 +1,109 @@
+.Services{
+    margin-top: 30px;
+    min-height: 700px;
+}
+.Services table thead tr td{
+    text-transform: uppercase;
+    
+}
+.Services table thead tr td{
+padding: 30px !important;
+    
+}
+
+.Services table{
+   background-color: white;
+   padding: 5px;
+    
+}
+.Services .servicesTypeButtons{
+    margin: 10px 0px;
+    display: inline-block;
+}
+.Services .servicesTypeButtons span{
+    margin-right: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    cursor: pointer;
+}
+.Services .servicesTypeButtons span:hover{
+   color: blueviolet;
+}
+.Services .service-tag img{
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;    
+}
+.Services .service-tag span{
+    margin-left: 15px;
+}
+.Services .createNewButton{
+    margin: 10px 0px;
+
+    float: right;
+}
+
+.Services .tableOuter{
+    background-color: white;
+    padding: 5px;
+    text-transform: uppercase;
+}
+
+.Services .createNewButton a{
+   
+    background-color: rgb(29,191,115);
+    color: white;
+    outline: none;
+    border: none;
+    text-transform: uppercase;
+    
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 6px;
+}
+.Services .filter-options{
+    float: right;
+    padding: 5px;
+    width: 150px;
+    outline: none;
+    border: none;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+.Services .option-menu button,.Services .option-menu a{
+
+    padding: 2px 7px;
+    font-size: 14px;
+}
+
+.Services .service-count{
+
+    margin-left: 5px;
+    background-color: blueviolet;
+    border-radius: 15px;
+    padding: 5px 10px 5px 10px;
+    color: white;
+}
+.Services .service-count:hover{
+
+    color: #0057FF;
+}
+.Services .active{
+
+    font-weight: 600;
+}
+.Services .service-tag img{
+  float: left;    
+  margin-right: 10px;
+}
+.Services .service-tag p{
+    margin-left: 70px;
+    display: contents;
+    padding-left: 10px;
+    float: left;
+    line-height: 0.8;
+    margin-top: -2px;
+}
+
+
+

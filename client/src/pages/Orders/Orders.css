@@ -1,0 +1,104 @@
+.Orders{
+    margin-top: 30px;
+    min-height: 700px;
+}
+.Orders table thead tr td{
+    /* text-transform: uppercase; */
+    
+}
+.Orders table thead tr td{
+padding: 30px !important;
+    
+}
+
+.Orders table{
+   background-color: white;
+   padding: 5px;
+    
+}
+.Orders .servicesTypeButtons{
+    margin: 10px 0px;
+    display: inline-block;
+}
+.Orders .servicesTypeButtons span{
+    margin-right: 20px;
+    /* text-transform: uppercase; */
+    font-weight: 500;
+    cursor: pointer;
+}
+.Orders .servicesTypeButtons span:hover{
+   color: blueviolet;
+}
+.Orders .service-tag img{
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;    
+}
+.Orders .service-tag span{
+    margin-left: 15px;
+}
+.Orders .createNewButton{
+    margin: 10px 0px;
+
+    float: right;
+}
+
+.Orders .tableOuter{
+    background-color: white;
+    padding: 5px;
+    /* text-transform: uppercase; */
+}
+
+.Orders .createNewButton a{
+   
+    background-color: rgb(29,191,115);
+    color: white;
+    outline: none;
+    border: none;
+    /* text-transform: uppercase; */
+    
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 6px;
+}
+.Orders .filter-options{
+    float: right;
+    padding: 5px;
+    width: 150px;
+    outline: none;
+    border: none;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+.Orders .option-menu button,.Orders .option-menu a{
+
+    padding: 2px 7px;
+    font-size: 14px;
+}
+
+.Orders .service-count{
+
+    margin-left: 5px;
+    background-color: blueviolet;
+    border-radius: 15px;
+    padding: 5px 10px 5px 10px;
+    color: white;
+}
+.Orders .service-count:hover{
+
+    color: green;
+}
+.Orders .active{
+
+    font-weight: 600;
+}
+
+
+.image-circle{
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    margin-right: 10px
+}
+
+

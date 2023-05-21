@@ -1,0 +1,34 @@
+[1017/142122.352:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1017/165900.095:ERROR:process_info.cc(359)] UncheckedAllocate
+[1017/170354.836:ERROR:process_info.cc(359)] UncheckedAllocate
+[1017/170855.571:ERROR:file_io.cc(135)] WriteFile: The pipe is being closed. (0xE8)
+[1017/170855.571:ERROR:file_io.cc(135)] WriteFile: The pipe is being closed. (0xE8)
+[1017/170855.571:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1017/170855.572:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/170855.573:ERROR:process_info.cc(551)] ReadProcessData failed
+[1017/170855.573:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1017/170855.573:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/170855.573:ERROR:process_info.cc(551)] ReadProcessData failed
+[1017/170855.573:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1017/170855.573:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/170855.573:ERROR:process_info.cc(551)] ReadProcessData failed
+[1017/170855.573:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1017/170855.573:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1017/170855.573:ERROR:process_info.cc(551)] ReadProcessData failed
+[1028/143048.964:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1109/185857.920:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1117/132529.233:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\aftab\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\4ff796c9-0b76-4888-b407-97a01d0c913d: The system cannot find the path specified. (0x3)
+[1117/132529.237:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1118/013106.651:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[1118/013106.651:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1118/013106.652:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[1118/013106.652:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1118/013106.667:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1118/013106.667:ERROR:exception_snapshot_win.cc(99)] thread ID 21988 not found in process
+[1118/013106.668:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1118/013106.669:ERROR:exception_snapshot_win.cc(99)] thread ID 21084 not found in process
+[1118/013106.675:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1118/013106.676:ERROR:exception_snapshot_win.cc(99)] thread ID 2344 not found in process
+[1120/140134.909:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1121/141333.939:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1129/201736.463:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

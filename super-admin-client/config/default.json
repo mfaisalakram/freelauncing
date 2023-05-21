@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://faisalakram:faisalakram@cluster0-shard-00-00.v4htb.mongodb.net:27017,cluster0-shard-00-01.v4htb.mongodb.net:27017,cluster0-shard-00-02.v4htb.mongodb.net:27017/?ssl=true&replicaSet=atlas-of5238-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "e544c8faaadd70a26743",
+  "githubSecret": "73865bb0146653069be79ae285bdc52af0995b19"
+}

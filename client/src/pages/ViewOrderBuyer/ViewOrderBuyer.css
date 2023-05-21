@@ -1,0 +1,22 @@
+.ViewOrderBuyer .order-page{
+   background-color: white;
+   border: 1px solid lightgray;
+   padding: 20px;
+}
+.ViewOrderBuyer .view-service{
+   font-size: 12px;
+}
+.ViewOrderBuyer .mt-top{
+   margin-top: 20px;
+}
+.ViewOrderBuyer .resolution-center{
+   border-radius: 5px;
+   border:  1px solid lightgray;
+   padding: 30px 20px 40px 20px;
+   text-align: center;
+   background-color: white;
+}
+.ViewOrderBuyer .delivery-box{
+   text-align: center;
+   
+}

@@ -1,0 +1,26 @@
+.ExtendDeliveryTimeBuyerSend .top{
+    text-align: center;
+}
+.ModifyOrdeModifyOrderBuyerReceive .info{
+    text-align: center;
+}
+.ExtendDeliveryTimeBuyerSend .extend-table-outer{
+    border: 1px solid lightgray;
+    margin: 10px 0px;
+    padding: 20px;
+    background-color: #fafafa;
+}
+.ExtendDeliveryTimeBuyerSend .info-table{
+    border: 1px solid lightgray;
+}
+.ExtendDeliveryTimeBuyerSend .info-table th{
+    font-weight: bold;
+}
+.ExtendDeliveryTimeBuyerSend .button-box{
+    text-align: center;
+    margin-top: 15px;
+   
+}
+.ExtendDeliveryTimeBuyerSend .button-box button{
+     padding: 7px;
+}

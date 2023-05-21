@@ -1,0 +1,60 @@
+.ReceiverCustomOfferTemplate .convo-message{
+
+    float: left!important;
+    overflow: hidden;
+    text-align: left;
+    clear: both;
+}
+
+/* .ReceiverCustomOfferTemplate .convo-message span{
+background-color: rgb(23, 153, 92);
+color: rgb(232, 230, 227);
+float: right;
+padding: 10px;
+border-radius: 15px 15px 0px 15px;
+margin: 5px
+
+} */
+
+
+.ReceiverCustomOfferTemplate .convo-area-sender{
+ /* float: left!important; */
+ width: 60%;
+}
+
+.ReceiverCustomOfferTemplate .custom-offer-box{
+
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+    
+ 
+}
+
+
+.ReceiverCustomOfferTemplate .convo-img{
+
+    top:0;
+}
+
+.ReceiverCustomOfferTemplate .custom-offer-box:nth-child(1) h3{
+    display: inline-block;
+    width: 78%;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.ReceiverCustomOfferTemplate .custom-offer-box:nth-child(1) .price{
+    display: inline-block;
+    width: 10%;
+    font-weight: bolder;
+    font-size: 20px;
+    position: absolute;
+    top: 0;margin-right: 20px;
+    right: 0;
+    margin-top: 30px;
+
+
+}

@@ -1,0 +1,17 @@
+.MessageTemplate img{
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    float: left;
+    margin-top: 5px;
+}
+.MessageTemplate .text{
+    display: inline-block;
+    margin-left: 10px
+}
+.MessageTemplate .text .username{
+font-weight:600 ;
+}
+.MessageTemplate .text p{
+    margin: 0px;
+}

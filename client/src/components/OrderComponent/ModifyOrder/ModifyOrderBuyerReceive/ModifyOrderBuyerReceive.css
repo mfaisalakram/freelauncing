@@ -1,0 +1,26 @@
+.ModifyOrderBuyerReceive .top{
+    text-align: center;
+}
+.ModifyOrdeModifyOrderBuyerReceiverSellerSend .info{
+    text-align: center;
+}
+.ModifyOrderBuyerReceive .extend-table-outer{
+    border: 1px solid lightgray;
+    margin: 10px 0px;
+    padding: 20px;
+    background-color: #fafafa;
+}
+.ModifyOrderBuyerReceive .info-table{
+    border: 1px solid lightgray;
+}
+.ModifyOrderBuyerReceive .info-table th{
+    font-weight: bold;
+}
+.ModifyOrderBuyerReceive .button-box{
+    text-align: center;
+    margin-top: 15px;
+   
+}
+.ModifyOrderBuyerReceive .button-box button{
+     padding: 7px;
+}

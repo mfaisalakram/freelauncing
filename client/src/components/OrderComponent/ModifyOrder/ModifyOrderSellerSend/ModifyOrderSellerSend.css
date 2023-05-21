@@ -1,0 +1,26 @@
+.ModifyOrderSellerSend .top{
+    text-align: center;
+}
+.ModifyOrderSellerSend .info{
+    text-align: center;
+}
+.ModifyOrderSellerSend .extend-table-outer{
+    border: 1px solid lightgray;
+    margin: 10px 0px;
+    padding: 20px;
+    background-color: #fafafa;
+}
+.ModifyOrderSellerSend .info-table{
+    border: 1px solid lightgray;
+}
+.ModifyOrderSellerSend .info-table th{
+    font-weight: bold;
+}
+.ModifyOrderSellerSend .button-box{
+    text-align: center;
+    margin-top: 15px;
+   
+}
+.ModifyOrderSellerSend .button-box button{
+     padding: 7px;
+}

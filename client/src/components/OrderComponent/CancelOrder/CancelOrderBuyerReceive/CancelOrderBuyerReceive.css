@@ -1,0 +1,26 @@
+.CancelOrderBuyerReceive .top{
+    text-align: center;
+}
+.CancelOrderBuyerReceive .info{
+    text-align: center;
+}
+.CancelOrderBuyerReceive .extend-table-outer{
+    border: 1px solid lightgray;
+    margin: 10px 0px;
+    padding: 20px;
+    background-color: #fafafa;
+}
+.CancelOrderBuyerReceive .info-table{
+    border: 1px solid lightgray;
+}
+.CancelOrderBuyerReceive .info-table th{
+    font-weight: bold;
+}
+.CancelOrderBuyerReceive .button-box{
+    text-align: center;
+    margin-top: 15px;
+   
+}
+.CancelOrderBuyerReceive .button-box button{
+     padding: 7px;
+}

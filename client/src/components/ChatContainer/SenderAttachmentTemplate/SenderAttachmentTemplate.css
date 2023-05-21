@@ -1,0 +1,40 @@
+.SenderAttachmentTemplate .convo-message{
+
+    float: right!important;
+    overflow: hidden;
+    text-align: left;
+    clear: both;
+}
+
+
+
+.SenderAttachmentTemplate{
+
+}
+
+.SenderAttachmentTemplate .convo-message span{
+
+background-color: #fcf5ff;
+color: black;  
+float: right;
+padding: 10px;
+border:1px solid lightgray;
+border-radius: 15px 15px 0px 15px;
+margin: 5px
+
+
+}
+
+.SenderAttachmentTemplate .fileattachment{
+    width: 50px;
+    position: absolute;
+    top: 10;
+}
+.SenderAttachmentTemplate .convo-area-sender{
+ float: right!important;
+ width: 60%;
+}
+.SenderAttachmentTemplate .filedata{
+    padding-left: 60px;
+    display: inline-block;
+}

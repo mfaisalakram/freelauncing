@@ -1,0 +1,104 @@
+.BuyerOrders{
+    margin-top: 30px;
+    min-height: 700px;
+}
+.BuyerOrders table thead tr td{
+    /* text-transform: uppercase; */
+    
+}
+.BuyerOrders table thead tr td{
+padding: 30px !important;
+    
+}
+
+.BuyerOrders table{
+   background-color: white;
+   padding: 5px;
+    
+}
+.BuyerOrders .servicesTypeButtons{
+    margin: 10px 0px;
+    display: inline-block;
+}
+.BuyerOrders .servicesTypeButtons span{
+    margin-right: 20px;
+    /* text-transform: uppercase; */
+    font-weight: 500;
+    cursor: pointer;
+}
+.BuyerOrders .servicesTypeButtons span:hover{
+   color: blueviolet;
+}
+.BuyerOrders .service-tag img{
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;    
+}
+.BuyerOrders .service-tag span{
+    margin-left: 15px;
+}
+.BuyerOrders .createNewButton{
+    margin: 10px 0px;
+
+    float: right;
+}
+
+.BuyerOrders .tableOuter{
+    background-color: white;
+    padding: 5px;
+    /* text-transform: uppercase; */
+}
+
+.BuyerOrders .createNewButton a{
+   
+    background-color: rgb(29,191,115);
+    color: white;
+    outline: none;
+    border: none;
+    /* text-transform: uppercase; */
+    
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 6px;
+}
+.BuyerOrders .filter-options{
+    float: right;
+    padding: 5px;
+    width: 150px;
+    outline: none;
+    border: none;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+.BuyerOrders .option-menu button,.BuyerOrders .option-menu a{
+
+    padding: 2px 7px;
+    font-size: 14px;
+}
+
+.BuyerOrders .service-count{
+
+    margin-left: 5px;
+    background-color: blueviolet;
+    border-radius: 15px;
+    padding: 5px 10px 5px 10px;
+    color: white;
+}
+.BuyerOrders .service-count:hover{
+
+    color: green;
+}
+.BuyerOrders .active{
+
+    font-weight: 600;
+}
+
+
+.image-circle{
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    margin-right: 10px
+}
+
+

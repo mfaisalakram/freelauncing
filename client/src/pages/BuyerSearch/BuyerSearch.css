@@ -1,0 +1,193 @@
+.BuyerSearch {
+    margin-top: 40px;
+}
+
+.BuyerSearch .service-inner {
+    padding: 10px;
+
+    /* border: 1px solid lightgray; */
+}
+
+.BuyerSearch .search-box {
+    position: relative;
+    overflow: visible;
+}
+
+.BuyerSearch .search-box .results {
+    display: none;
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    min-width: 500px;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    z-index: 2;
+}
+
+.BuyerSearch .cat-name {
+    cursor: pointer;
+}
+
+.BuyerSearch .search-box:hover .results {
+    display: block;
+}
+
+.BuyerSearch .search-box input {
+    padding: 5px 10px;
+    min-width: 500px;
+}
+
+.BuyerSearch .results {
+    background-color: azure;
+    /* display: inline-block; */
+    /* clear: both; */
+
+    max-width: 300px;
+}
+
+.BuyerSearch .results ul {
+    padding-left: 10px;
+}
+
+.BuyerSearch .results ul li {
+    padding: 3px;
+    cursor: pointer;
+
+}
+
+.BuyerSearch .results ul li:hover {
+    color: blueviolet;
+}
+
+.BuyerSearch .category-box ul {
+    padding: 0px;
+}
+
+.BuyerSearch .category-box li span:nth-child(2) {
+    float: right;
+
+}
+
+
+
+.none {
+    display: none;
+}
+
+.box {
+
+    position: absolute;
+    z-index: 2;
+    padding: 7px;
+    background-color: white;
+    max-width: 400px;
+    /* overflow: hidden; */
+}
+
+
+.box1 {
+
+    position: absolute;
+    z-index: 2;
+    padding: 7px;
+    background-color: white;
+    /* overflow: hidden; */
+
+}
+
+.filters {
+    margin-top: 20px;
+}
+
+.filters .btn-filter {
+    color: #222325;
+    min-width: 90px;
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-size: 20px;
+    font-weight: bold;
+    border: 1px solid #dadbdd;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.filters .inner-filter {
+
+    display: inline-block;
+    margin-right: 20px;
+    
+}
+
+.SellerFilter .inner-checkbox {
+    display: inline-block;
+}
+
+.SellerFilter .inner-checkbox .filter-label {
+    width: 40%;
+}
+
+.SellerFilter .filter-label input {
+    width: 20px;
+    height: 17px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.SellerFilter .filter-label {
+    font-size: 20px;
+    padding: 5px;
+}
+
+.SellerFilter .content-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.SellerFilter .count {
+    color: lightgray;
+}
+
+.filters .min,
+.filters .max {
+
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.filters .min input,
+.filters .max input {
+
+    max-width: 90px;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.filters .content-scroll{
+box-sizing: border-box;
+overflow-y: scroll;
+overflow-x: hidden;
+max-height: 300px;
+}
+.SellerFilter {
+    /* position: absolute; */
+    /* overflow: hidden; */
+    /* width: 400px; */
+    /* height: 300px; */
+}
+
+.block{
+    display: block;
+}
+.clearAll{
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-weight: 600;
+}
+.clearAll:hover{
+    color: rebeccapurple;
+}

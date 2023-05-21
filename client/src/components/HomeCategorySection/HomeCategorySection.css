@@ -1,0 +1,9 @@
+.category-list .icon {
+  margin-bottom: 5px;
+  min-height: 40px;
+}
+
+.category-icon {
+  color: #f7be6d !important;
+  font-size: 30px;
+}

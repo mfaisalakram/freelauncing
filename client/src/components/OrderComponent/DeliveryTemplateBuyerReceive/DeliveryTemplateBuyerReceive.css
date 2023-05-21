@@ -1,0 +1,7 @@
+.DeliveryTemplateBuyerReceive {
+  text-align: center;
+  /* background-color: rgb(246, 249, 253) !important; */
+}
+.DeliveryTemplateBuyerReceive .DeliveryTemplateBuyerReceive-msg {
+  text-align: left;
+}

@@ -1,0 +1,38 @@
+{
+  "name": "socicaldeveloper",
+  "version": "1.0.0",
+  "description": "social app for developer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server.js --ignore 'client/*'",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server \" \"npm run client\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chartist": "^0.11.4",
+    "config": "^3.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.0",
+    "gravatar": "^1.8.0",
+    "http-proxy-middleware": "^1.0.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.5",
+    "mysql": "^2.18.1",
+    "react-chartist": "^0.14.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "concurrently": "^5.1.0",
+    "nodemon": "^2.0.2"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "client/*"
+    ]
+  }
+}

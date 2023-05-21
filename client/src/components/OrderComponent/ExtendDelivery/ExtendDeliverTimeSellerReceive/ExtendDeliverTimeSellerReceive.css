@@ -1,0 +1,26 @@
+.ExtendDeliverTimeSellerReceive .top{
+    text-align: center;
+}
+.ExtendDeliverTimeSellerReceive .info{
+    text-align: center;
+}
+.ExtendDeliverTimeSellerReceive .extend-table-outer{
+    border: 1px solid lightgray;
+    margin: 10px 0px;
+    padding: 20px;
+    background-color: #fafafa;
+}
+.ExtendDeliverTimeSellerReceive .info-table{
+    border: 1px solid lightgray;
+}
+.ExtendDeliverTimeSellerReceive .info-table th{
+    font-weight: bold;
+}
+.ExtendDeliverTimeSellerReceive .button-box{
+    text-align: center;
+    margin-top: 15px;
+   
+}
+.ExtendDeliverTimeSellerReceive .button-box button{
+     padding: 7px;
+}

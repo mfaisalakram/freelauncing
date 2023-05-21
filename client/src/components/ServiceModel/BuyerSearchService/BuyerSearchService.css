@@ -1,0 +1,97 @@
+.BuyerSearchService{
+
+    border: 1px solid lightgray;
+    
+    overflow: hidden;
+}
+.BuyerSearchService .after-slider{
+    padding: 10px;
+}
+.BuyerSearchService .slick-slider{
+    margin-bottom: 0px;
+}
+.BuyerSearchService .Slider-dev .slick-prev{
+    left: 0px;
+    z-index: 2;
+    width: 20px;
+    display: none!important;
+}
+.BuyerSearchService .Slider-dev .slick-next{
+    right:0px;
+    z-index: 2;
+    width: 20px;
+    display: none!important;
+}
+.BuyerSearchService .Slider-dev .slide{
+  height: auto;
+  /* max-height: 140px; */
+}
+
+.BuyerSearchService .Slider-dev:hover .slick-prev,.BuyerSearchService .Slider-dev:hover .slick-next{
+    display: block!important;
+}
+.BuyerSearchService  .seller-data{
+  overflow: hidden;  
+}
+
+.BuyerSearchService  .service-data h4{
+    word-break: break-word;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    font-size: 17px;
+    line-height: 18px; /* fallback */
+    max-height: 38px; /* fallback */
+    -webkit-line-clamp: 2; /* number of lines to show */
+    -webkit-box-orient: vertical;
+    cursor: pointer;
+  }
+.BuyerSearchService  .seller-data img{
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    float: left;
+}
+.BuyerSearchService  .seller-data div{
+    display: inline-block;
+    margin-left: 10px;
+    float: left;
+    min-height: 20px;
+    margin-top: 0px;
+
+}
+.BuyerSearchService  .seller-data span{
+    display: block;
+    vertical-align:auto;
+    line-height: 0.95em;
+    
+}
+.BuyerSearchService .price-and-option {
+    overflow: hidden;
+}
+.BuyerSearchService .price-and-option .options{
+    float: left;
+}
+.BuyerSearchService .price-and-option .options ,.BuyerSearchService .price-and-option .price{
+    display: inline-block;
+}
+.BuyerSearchService .price-and-option .price{
+    text-align: right;
+    float: right;
+}
+.BuyerSearchService .price-and-option .price h4{
+    margin: 0px;
+    font-size: 16px;
+}
+.BuyerSearchService .price-and-option .options i{
+    font-size: 1.3em;
+}
+.BuyerSearchService .price-and-option .options .heart{
+    margin-left: 10px;
+}
+.BuyerSearchService .divider{
+    width: 100%;
+    background-color: lightgray;
+    border-bottom: 1px solid lightgray;
+    margin: 10px 0px;
+}

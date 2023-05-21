@@ -1,0 +1,24 @@
+.SenderMSGTemplate .convo-message{
+
+    float: right!important;
+    overflow: hidden;
+    text-align: left;
+    clear: both;
+}
+
+.SenderMSGTemplate .convo-message span{
+    background-color: #fcf5ff;
+    color: black;
+    border: 1px solid lightgray;
+float: right;
+padding: 10px;
+border-radius: 15px 15px 0px 15px;
+margin: 5px
+
+}
+
+
+.SenderMSGTemplate .convo-area-sender{
+ float: right!important;
+ width: 60%;
+}

@@ -1,0 +1,194 @@
+.ViewOffer .dashboard{
+
+   background-color: white;
+   margin-top: 20px;
+   padding-top: 10px;
+}
+
+.spanTag1 {
+   padding: 10px;
+   font-weight: bold;
+}
+
+.ViewOffer .profile-pict-img{
+   width: 32px;
+   height: 32px;
+   border-radius: 50%;
+}
+.spanTag2 {
+    font-weight: bold;
+    font-size: medium;
+    color: burlywood;
+    padding-left: 10px;
+ }
+
+ .spanTag3 {
+     padding-left: 50px;
+     font-weight: bolder;
+     color: burlywood;
+ }
+
+ .contentdescription {
+    padding-left: 50px;
+    color:black;
+    font-size: medium;
+ }
+
+ .statdesc {
+    border: 1px solid #dadbdd;
+    margin-top: 0;
+    border-radius: 3px;
+    padding: 24px;
+ }
+
+ .ViewOffer .carousel .slide{
+   height: 100%!important;
+   background-color: darkgray;
+ }
+
+ .carousel .slide img {
+
+  width:auto!important; 
+ height: auto!important; 
+ max-height: 492px;
+ } 
+
+ .slide img {
+    
+     max-width: 100%;
+     /* max-height: 100%; */
+     
+    
+ }
+
+ .carousel .slider-wrapper {
+    /* height: 380px; */
+    position: relative;
+    background-color: darkgray;
+    max-width: 95%; 
+    max-height: 492px;
+
+ }
+
+ .carousel .slider{
+   height: 100%;
+  
+ }
+ .service-packages {
+    border: 1px solid blueviolet;
+    width: 95%;
+    border-radius: 5px 5px 0px 0px;
+    background-color: lightgray;
+    height:100%;
+    margin-top: 70px;
+    padding-top: 10px;
+
+ }
+
+ .ViewOffer .details-box{
+overflow: hidden;
+ }
+
+ .ViewOffer .details-box .r{
+ 
+   float: right;
+}
+
+.ViewOffer .details-box .l{
+ 
+   float: left;
+}
+ .service-packages label {
+    display: inline-block;
+    text-align: center;
+    /* border: 1px solid black; */
+    font-size: medium;
+    font-weight: bolder;
+    /* padding-inline-start: 46%; */
+    height:100%;
+    padding: 3px;
+    padding-left: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: blueviolet;
+    /* width:50% */
+  
+ }
+ .ViewOffer .service-title{
+    /* margin: 0px; */
+    margin-top: 10px;
+    margin-bottom: 20px;
+    line-height: 0.8em;
+ }
+ .service-packages label:hover {
+    background-color: burlywood;
+ }
+ .ViewOffer .img-circle { 
+    width: 100px;
+   border-radius: 50%;
+   height: 100px;
+ }
+
+ .ViewOffer .seller-short{
+    overflow: hidden;
+ }
+ .ViewOffer .seller-short-data,.ViewOffer .image-div-large{
+    display: inline-block;
+    float: left;
+    
+ }
+ .ViewOffer .seller-short-data{
+   margin-left: 10px;
+   margin-top: -20px;
+    /* text-align: center; */
+ }
+ .ViewOffer .other-service{
+    padding: 10px;
+ }
+ .service-content {
+   border: 1px solid blueviolet;
+   border-radius: 0px 0px 5px 5px;
+   width: 95%;
+   background-color: white;
+   height:100%;
+   padding: 10px;
+ }
+
+
+ .commentdiv {
+    padding-left: 35px;
+
+ }
+
+.ViewOffer .sidebar-menu{
+   margin-bottom: 0px !important;
+} 
+
+
+.TagList li {
+   list-style: none;
+   display: inline-block;
+   margin-left: 15px;
+   padding:5px 10px;
+   border:1px solid lightgray;   
+   border-radius: 5px;
+}
+.ViewOffer .contact-seller-button{
+
+   background-color: blueviolet;
+   color: white;
+   box-sizing: border-box;
+}
+.ViewOffer .contact-seller-button:hover{
+
+   background-color: white ;
+   color: blueviolet!important;
+   border: 2px solid blueviolet;
+
+}
+.ViewOffer .serviceData{
+   padding: 20px;
+}
+.ViewOffer .includes-offer{
+   padding: 20px;
+}

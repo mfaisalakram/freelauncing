@@ -1,0 +1,90 @@
+.AddService {
+    /* width: 90%; */
+    margin:  20px auto;
+}
+.AddService .service-title{
+    font-size: 40px;
+
+}
+
+
+.AddService .sidebar-fixed-outer{
+    position: relative;
+    width: 100%;
+}
+.AddService .sidebar-fixed{
+    /* position: fixed; */
+    /* width: 100%; */
+}
+.AddService .image-dropzone{
+    /* background-color: aqua; */
+text-align: center;
+
+/* overflow: hidden; */
+}
+.AddService .image-dropzone input{
+visibility: hidden;
+   
+    
+}
+
+.AddService .closeimage{
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    width: 20px;
+    cursor: pointer;
+    padding: 2px;
+}
+.AddService .img-dev{
+    min-height: 100px;
+    background-color: aliceblue;
+    margin: 0px;
+    height: 150px;
+    margin: 10px 0px;
+/* overflow-y: scroll; */
+}
+
+.slide{
+    background-color: aquamarine;
+    height: 200px;
+
+}
+.AddService .image-dropzone .img-dev{
+    position: relative;
+}
+.AddService .image-dropzone .img-dev img{
+    max-width: 100%;
+    max-height: 100%;
+    margin-bottom: 15px;
+    
+       
+        
+}
+.AddService .image-dropzone label{
+    
+  text-align: center;
+       /* height: 100px;
+       width: 100%; 
+        */
+}
+.AddService .image-dropzone label {   
+    text-align: center;
+    /* box-shadow: 2px 3px 10px lightgray; */
+    display: inline;
+    padding: 5px;
+         /* height: 100px;
+         width: 100%; 
+
+         */
+
+  }
+
+
+  .AddService label{
+      font-weight: 600!important;
+      color: #000!important;
+  }

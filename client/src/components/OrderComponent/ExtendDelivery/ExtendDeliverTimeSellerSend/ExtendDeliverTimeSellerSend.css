@@ -1,0 +1,26 @@
+.ExtendDeliverTimeSellerSend .top{
+    text-align: center;
+}
+.ExtendDeliverTimeSellerSend .info{
+    text-align: center;
+}
+.ExtendDeliverTimeSellerSend .extend-table-outer{
+    border: 1px solid lightgray;
+    margin: 10px 0px;
+    padding: 20px;
+    background-color: #fafafa;
+}
+.ExtendDeliverTimeSellerSend .info-table{
+    border: 1px solid lightgray;
+}
+.ExtendDeliverTimeSellerSend .info-table th{
+    font-weight: bold;
+}
+.ExtendDeliverTimeSellerSend .button-box{
+    text-align: center;
+    margin-top: 15px;
+   
+}
+.ExtendDeliverTimeSellerSend .button-box button{
+     padding: 7px;
+}

@@ -1,0 +1,19 @@
+.ResolutionCenter .options a{
+    display: block;
+}
+.ResolutionCenter .subQ,.ResolutionCenter .Q{
+  cursor: pointer;
+}
+.ResolutionCenter .subQ:hover,.ResolutionCenter .Q:hover{
+ 
+    color: blueviolet;
+    font-weight: 600;
+
+}
+.ResolutionCenter .in{
+  margin-bottom: 10px;
+}
+.ResolutionCenter{
+  background-color: white;
+  margin-top: 40px;
+}

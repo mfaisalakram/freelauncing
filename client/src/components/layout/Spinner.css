@@ -1,0 +1,26 @@
+.back{
+
+    position: absolute;
+    width: 100%;
+    top:0;
+    left: 0;
+    height: 100%;
+    z-index: 1;  
+    /* background-color: rgba(0,0,0, 0.4);   */
+}
+
+
+.abs {
+
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    z-index: 15;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0 0 -150px;
+    text-align: center;
+}
+.Spinner{
+    text-align: center;
+}
